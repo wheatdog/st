@@ -1,0 +1,6 @@
+# How to build and install
+makepkg      # build
+makepkg -i   # build and install
+
+# Have to update patches manually when st updates.
+
